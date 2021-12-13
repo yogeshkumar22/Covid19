@@ -1,1 +1,3 @@
 # Covid19
+
+This project shows the Data Visualization of the Covid19 dataset using Plotly, Express, Seaborn, Matplotlib libraries for creating interactive graphs. The dataset contains ['Country/Region', 'Continent', 'Population', 'TotalCases', 'NewCases', 'TotalDeaths', 'NewDeaths', 'TotalRecovered', 'NewRecovered', 'ActiveCases', 'Serious,Critical', 'Tot Cases/1M pop', 'Deaths/1M pop', 'TotalTests', 'Tests/1M pop', 'WHO Region'] as features. You can check the jupyter notebook having interactive graphs [Click here](https://nbviewer.org/github/yogeshkumar22/Covid19/blob/main/Covid_19_data_analysis_project.ipynb) as github cannot render these graphs.
